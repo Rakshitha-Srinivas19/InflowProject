@@ -1,6 +1,8 @@
 InflowInternship
 Hackathon - Inflow Technologies
 
+Tableau Link: https://public.tableau.com/app/profile/rakshitha.s3220/viz/CovidDataset_16562480414360/Story1?publish=yes
+
 Use the Covid Dataset to visualize the following questions:
 
 
